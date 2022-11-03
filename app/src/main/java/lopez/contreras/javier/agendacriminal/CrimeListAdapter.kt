@@ -9,7 +9,7 @@ class CrimeHolder(
     val binding: ListItemCrimeBinding
 ) : RecyclerView.ViewHolder(binding.root) {
 }
-//Comentario 11111
+//Comentario 11111asdfghjkl;
 class CrimeListAdapter(private val crimes: List<Crime>
 ) : RecyclerView.Adapter<CrimeHolder>() {
     override fun onCreateViewHolder(
