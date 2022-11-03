@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgendaCriminal</string>
+    <string name="crimeTitleHint">Enter a title for the crime.</string>
+    <string name="crimeTitleLabel">Title</string>
+    <string name="crimeDetailLabel">Details</string>
+    <string name="crimeSolvedLabel">Solved</string>
+</resources>
